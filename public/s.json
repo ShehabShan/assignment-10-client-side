@@ -1,0 +1,117 @@
+[
+  {
+    "country_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGJ94raI9Gw7wMaMoBnCJRFfIGRAy91pi4vA&s",
+    "country_name": "Adventureland",
+    "visa_type": "Tourist Visa",
+    "processing_time": "10 business days",
+    "required_documents": [
+      "Valid passport",
+      "Visa application form",
+      "Proof of accommodation",
+      "Recent passport-sized photograph"
+    ],
+    "description": "Ideal for adventure seekers exploring Adventureland.",
+    "age_restriction": 18,
+    "fee": 70,
+    "validity": 3,
+    "application_method": "Online or at the consulate",
+    "email": "mdshehabsarar@gmail.com"
+  },
+  {
+    "country_image": "https://img.freepik.com/premium-photo/international-education-day-theme-background-with-black-board-pencil-books-education-day_779468-5948.jpg",
+    "country_name": "Eduworld",
+    "visa_type": "Student Visa",
+    "processing_time": "20 business days",
+    "required_documents": [
+      "Valid passport",
+      "Visa application form",
+      "Proof of admission",
+      "Proof of financial resources",
+      "Medical certificate",
+      "Recent passport-sized photograph"
+    ],
+    "description": "For students pursuing education in Eduworld.",
+    "age_restriction": 16,
+    "fee": 120,
+    "validity": 6,
+    "application_method": "Apply online or at the nearest embassy",
+    "email": "mdshehabsarar@gmail.com"
+  },
+  {
+    "country_image": "https://www.shutterstock.com/image-vector/time-travel-banner-passport-tickets-260nw-412602331.jpg",
+    "country_name": "Biztopia",
+    "visa_type": "Business Visa",
+    "processing_time": "5-7 business days",
+    "required_documents": [
+      "Valid passport",
+      "Visa application form",
+      "Invitation letter from a registered business",
+      "Proof of accommodation",
+      "Recent passport-sized photograph"
+    ],
+    "description": "For business meetings or conferences in Biztopia.",
+    "age_restriction": 21,
+    "fee": 150,
+    "validity": 3,
+    "application_method": "Through the official website or embassy",
+    "email": "mdshehabsarar@gmail.com"
+  },
+  {
+    "country_image": "https://www.shutterstock.com/image-vector/time-travel-banner-passport-tickets-260nw-412602331.jpg",
+    "country_name": "Culturaland",
+    "visa_type": "Cultural Exchange Visa",
+    "processing_time": "15 business days",
+    "required_documents": [
+      "Valid passport",
+      "Visa application form",
+      "Invitation letter from hosting organization",
+      "Proof of financial support",
+      "Recent passport-sized photograph"
+    ],
+    "description": "Designed for individuals participating in cultural exchange programs.",
+    "age_restriction": 18,
+    "fee": 80,
+    "validity": 6,
+    "application_method": "Online or at the consulate",
+    "email": "mdshehabsarar@gmail.com"
+  },
+  {
+    "country_image": "https://thumbs.dreamstime.com/b/abstract-study-abroad-concept-front-man-graduation-student-university-illustration-white-background-339954287.jpg",
+    "country_name": "Healthland",
+    "visa_type": "Medical Visa",
+    "processing_time": "7-10 business days",
+    "required_documents": [
+      "Valid passport",
+      "Visa application form",
+      "Medical report",
+      "Proof of financial resources",
+      "Letter from the medical institution",
+      "Recent passport-sized photograph"
+    ],
+    "description": "For individuals seeking medical treatment in Healthland.",
+    "age_restriction": 0,
+    "fee": 50,
+    "validity": 3,
+    "application_method": "Submit at the consulate or online",
+    "email": "mdshehabsarar@gmail.com"
+  },
+  {
+    "country_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK1_ep9pTC_EonhbkOCtB0Xa0N7s1JqQlWgnYQzi4QwEpI9qReTaSnanInQp5rKRxXQkU&usqp=CAU",
+    "country_name": "Workland",
+    "visa_type": "Work Visa",
+    "processing_time": "20 business days",
+    "required_documents": [
+      "Valid passport",
+      "Visa application form",
+      "Job offer letter",
+      "Proof of qualifications",
+      "Recent passport-sized photograph"
+    ],
+    "description": "Issued to professionals working in Workland.",
+    "age_restriction": 18,
+    "fee": 200,
+    "validity": 3,
+    "application_method": "Apply online or via the embassy",
+    "email": "mdshehabsarar@gmail.com"
+  }
+]
